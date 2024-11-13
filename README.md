@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=StefikMichal)](https://git.io/streak-stats)
+
+
 <!--
 **StefikMichal/stefikmichal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
